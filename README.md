@@ -413,7 +413,7 @@ Now let's see the forecasting for some products.
 We have a better results if we forecast product by product.</br>
 For the three previous products, Random Forest model is confirmed as the best forecasting model.
 
-# Further reading
+# References
 - [Forecasting: Principles and Practice](https://otexts.com/fpp2/) by Rob J Hyndman and George Athanasopoulos
 - [Getting Started with Modeltime](https://cran.r-project.org/web/packages/modeltime/vignettes/getting-started-with-modeltime.html)
 - [11 Classical Time Series Forecasting Methods in Python (Cheat Sheet)](https://machinelearningmastery.com/time-series-forecasting-methods-in-python-cheat-sheet/) by Jason Brownlee
