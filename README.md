@@ -1,7 +1,7 @@
 ## Introduction
 Time series forecasting is one of the most important prediction techniques in business. The idea is to use historical data to predict future observations.
 
-we will use the data of Store Sales-Time Series Forecasting in Kaggle competition. It is about sales in Ecuador between 2013 and 2017. You can download it from [Kaggle](https://www.kaggle.com/competitions/store-sales-time-series-forecasting/overview) or by cloning this repo.
+we will use the data of Store Sales-Time Series in Ecuador between 2013 and 2017. You can download it from [data](https://www.kaggle.com/competitions/store-sales-time-series-forecasting/overview) and put it in a folder called data to run the code
 
 I will use these libraries in this project:
 ```
